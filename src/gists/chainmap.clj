@@ -1,6 +1,6 @@
 (ns ^{:doc "ChainMap implementation. Inspired by Python."
       :author "Baishampayan Ghose <b.ghose@infinitelybeta.com>"}
-  chainmap.core
+  gists.chainmap
   (:refer-clojure :exclude [parents]))
 
 
